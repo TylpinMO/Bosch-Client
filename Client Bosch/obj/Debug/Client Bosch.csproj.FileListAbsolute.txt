@@ -1,0 +1,44 @@
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\Client Bosch.exe.config
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\Client Bosch.exe
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\Client Bosch.pdb
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client Bosch.csproj.AssemblyReference.cache
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.Forms.LoginForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.Properties.Resources.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client Bosch.csproj.GenerateResource.cache
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client Bosch.csproj.CoreCompileInputs.cache
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client Bosch.exe
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client Bosch.pdb
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.AboutForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.Forms.MainForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\Bosch_client_db1.accdb
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.OrderForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.PriceForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.StaffForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.AddOrderForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.AddStaffForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.ChangeOrderForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.ChangeStaffForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.DeleteOrderForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.DeleteStaffForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.InfoStaffForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.PrintOrderForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client Bosch.csproj.ResolveComReference.cache
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\EPPlus.dll
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\System.Buffers.dll
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\System.Memory.dll
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\EPPlus.xml
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\System.Buffers.xml
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\System.Memory.xml
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client B.D16EB919.Up2Date
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.AddPriceForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.ChangePriceForm.resources
+C:\Users\matvu\source\repos\Client Bosch\Client Bosch\obj\Debug\Client_Bosch.DeletePriceForm.resources
